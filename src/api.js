@@ -1,7 +1,7 @@
 export const fetchResponse = async(chat) => {
     // console.log(chat)
     try {
-        const response = await fetch('https://server-wine-rho.vercel.app/', {
+        const response = await fetch('https://server-yj5a.onrender.com/', {
             method: "POST",
             headers: {
                 'Content-Type': 'application/json',
